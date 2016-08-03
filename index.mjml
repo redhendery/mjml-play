@@ -1,17 +1,35 @@
 <mjml>
+  <mj-head>
+    <mj-title>I am a title oh yeah!</mj-title>
+  </mj-head>
   <mj-body>
     <mj-container>
-      <mj-column>
-          <mj-button font-family="Helvetica" background-color="#f45e43" color="white">
-            Don't click me!
+      <mj-section full-width="full-width" align="center">
+        <mj-column>
+
+          <mj-text
+            align="middle"
+            color="black"
+            font-size="40">
+            I am a slogan!
+          </mj-text>
+
+          <mj-button
+            align="center"
+            background-color="#F63A4D"
+            href="#">BUTTON!
+          </mj-button>
+
+          <mj-button
+            background-color="#F63A4D"
+            href="#">ANOTHER BUTTON!
           </mj-button>
         </mj-column>
-      <mj-section>
+      </mj-section>
+      <mj-section full-width="full-width" background-color="skyblue">
         <mj-social
-          mode="vertical"
-          display="google facebook"
-          google-icon-color="#424242"
-          facebook-icon-color="#424242"
+          mode="horizontal"
+          display="facebook google instagram pinterest linkedin twitter"
           facebook-href="My facebook page"
           google-href="My google+ page"/>
       </mj-section>
