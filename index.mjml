@@ -25,7 +25,7 @@
 
       <mj-section>
         <mj-column>
-          <mj-image width="137px" height="185px" src="https://mjml.io/assets/img/easy-and-quick.png" />
+          <mj-image width="137px" height="185px" src="http://www.tacobueno.com/media/1381/beefbob.png?quality=65" />
           <mj-text>
             <h2>Easy and quick</h2>
             <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
